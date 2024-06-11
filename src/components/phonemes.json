@@ -35,8 +35,8 @@
     "tags": ["consonant", "sonorant"]
   },
   {
-    "ipa": "б",
-    "grapheme": "b",
+    "ipa": "b",
+    "grapheme": "б",
     "tags": ["consonant", "voiced", "stop"]
   },
   {
@@ -50,7 +50,7 @@
     "tags": ["consonant", "geminated", "stop"]
   },
   {
-    "ipa": "пʼ",
+    "ipa": "pʼ",
     "grapheme": "пь",
     "tags": ["consonant", "ejective", "stop"]
   },
