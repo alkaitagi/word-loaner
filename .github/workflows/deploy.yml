@@ -1,26 +1,29 @@
-name: Deploy to GH Pages
+name: Deploy Vue.js App to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # Set this to the branch you want to trigger the deployment
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@master
+      - name: Checkout the repository
+        uses: actions/checkout@v2
 
-      - name: Install 🔧
-        run: npm i
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
 
-      - name: Build 🏗️
+      - name: Install
+        run: npm install
+
+      - name: Build
         run: npm run build
 
-      - name: Deploy to GH Pages 🚀
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: ./dist
