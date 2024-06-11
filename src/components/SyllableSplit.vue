@@ -116,7 +116,6 @@ const syllables = computed(() => {
 .word {
     display: flex;
     flex-wrap: nowrap;
-    gap: 4px;
     padding: 4px;
 }
 
