@@ -1,0 +1,207 @@
+[
+  {
+    "ipa": "a",
+    "grapheme": "а",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "æ",
+    "grapheme": "я",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "o",
+    "grapheme": "о",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "e",
+    "grapheme": "е",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "i",
+    "grapheme": "и",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "u",
+    "grapheme": "у",
+    "tags": ["vowel"]
+  },
+  {
+    "ipa": "m",
+    "grapheme": "м",
+    "tags": ["consonant", "sonorant"]
+  },
+  {
+    "ipa": "б",
+    "grapheme": "b",
+    "tags": ["consonant", "voiced", "stop"]
+  },
+  {
+    "ipa": "p",
+    "grapheme": "п",
+    "tags": ["consonant", "voiceless", "stop"]
+  },
+  {
+    "ipa": "pː",
+    "grapheme": "пп",
+    "tags": ["consonant", "geminated", "stop"]
+  },
+  {
+    "ipa": "пʼ",
+    "grapheme": "пь",
+    "tags": ["consonant", "ejective", "stop"]
+  },
+  {
+    "ipa": "n",
+    "grapheme": "н",
+    "tags": ["consonant", "sonorant"]
+  },
+  {
+    "ipa": "d",
+    "grapheme": "д",
+    "tags": ["consonant", "voiced", "stop"]
+  },
+  {
+    "ipa": "t",
+    "grapheme": "т",
+    "tags": ["consonant", "voiceless", "stop"]
+  },
+  {
+    "ipa": "tː",
+    "grapheme": "тт",
+    "tags": ["consonant", "geminated", "stop"]
+  },
+  {
+    "ipa": "tʼ",
+    "grapheme": "ть",
+    "tags": ["consonant", "ejective", "stop"]
+  },
+  {
+    "ipa": "l",
+    "grapheme": "л",
+    "tags": ["consonant", "sonorant"]
+  },
+  {
+    "ipa": "r",
+    "grapheme": "р",
+    "tags": ["consonant", "sonorant"]
+  },
+  {
+    "ipa": "j",
+    "grapheme": "й",
+    "tags": ["consonant", "sonorant"]
+  },
+  {
+    "ipa": "g",
+    "grapheme": "г",
+    "tags": ["consonant", "stop", "voiced"]
+  },
+  {
+    "ipa": "k",
+    "grapheme": "к",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "kː",
+    "grapheme": "кк",
+    "tags": ["consonant", "stop", "geminated"]
+  },
+  {
+    "ipa": "kʼ",
+    "grapheme": "кь",
+    "tags": ["consonant", "stop", "ejective"]
+  },
+  {
+    "ipa": "q",
+    "grapheme": "ҡ",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "qː",
+    "grapheme": "ҡҡ",
+    "tags": ["consonant", "stop", "geminated"]
+  },
+  {
+    "ipa": "qʼ",
+    "grapheme": "ҡь",
+    "tags": ["consonant", "stop", "ejective"]
+  },
+  {
+    "ipa": "χ",
+    "grapheme": "х",
+    "tags": ["consonant", "fricative", "voiceless"]
+  },
+  {
+    "ipa": "ʁ",
+    "grapheme": "ғ",
+    "tags": ["consonant", "fricative", "voiced"]
+  },
+  {
+    "ipa": "x",
+    "grapheme": "ҳ",
+    "tags": ["consonant", "fricative", "voiceless"]
+  },
+  {
+    "ipa": "h",
+    "grapheme": "ь",
+    "tags": ["consonant", "fricative", "voiceless"]
+  },
+  {
+    "ipa": "ʔ",
+    "grapheme": "ъ",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "s",
+    "grapheme": "с",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "ʃ",
+    "grapheme": "ш",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "z",
+    "grapheme": "з",
+    "tags": ["consonant", "stop", "voiced"]
+  },
+  {
+    "ipa": "ʒ",
+    "grapheme": "ж",
+    "tags": ["consonant", "stop", "voiced"]
+  },
+  {
+    "ipa": "ts",
+    "grapheme": "ц",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "tsː",
+    "grapheme": "цц",
+    "tags": ["consonant", "stop", "geminated"]
+  },
+  {
+    "ipa": "tsʼ",
+    "grapheme": "ць",
+    "tags": ["consonant", "stop", "ejective"]
+  },
+  {
+    "ipa": "tʃ",
+    "grapheme": "ч",
+    "tags": ["consonant", "stop", "voiceless"]
+  },
+  {
+    "ipa": "tʃː",
+    "grapheme": "чч",
+    "tags": ["consonant", "stop", "geminated"]
+  },
+  {
+    "ipa": "tʃʼ",
+    "grapheme": "чь",
+    "tags": ["consonant", "stop", "ejective"]
+  }
+]
